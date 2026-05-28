@@ -1,5 +1,4 @@
 # 👋 이민구 GitHub Profile
-![프로필](./프로필.png)
 
 안녕하세요. 개발을 배우고 있는 **이민구**입니다.  
 현재 **C 언어와 Java**를 공부하며 프로젝트를 통해 문제 해결 경험을 쌓고 있습니다.
@@ -39,16 +38,14 @@
 ### 3. 사용하는 기술
 
 #### Language  
-  - C
-  - Java (학습 중)
+![c](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### Tools & Collaboration
-  - GitHub
-  - Claude
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 목표
+### 4. 목표
 
 꾸준히 프로젝트를 진행하며  
 백엔드 및 소프트웨어 개발 역량을 성장시키고 있습니다.
